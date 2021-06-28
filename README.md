@@ -9,7 +9,7 @@
 </h1>
 
 ## :crystal_ball: About the project
-Letmeask is a frontend focused project developed during the #NLW-6 event promoted by RocketSeat. 
+The project's objective is to be a platform where people who make live can have access to the main doubts of their viewers. In which, FrontEnd was developed with the ReactJs library and the data is stored with Firebase's Realtime Database. :fire:
 
 ## :mega: Technologies
 - [React](https://reactjs.org)
