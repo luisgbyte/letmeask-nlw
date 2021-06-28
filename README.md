@@ -33,3 +33,5 @@ $ yarn
 # Start the project
 $ yarn start
 ```
+<br/>
+<p align="center">Made with :orange_heart: by Luis Gustavo | Find me on <a href="https://www.linkedin.com/in/luis-gustavo-soares/">LinkedIn</a></p>
